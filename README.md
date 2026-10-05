@@ -1,12 +1,27 @@
-# Healthcare Data NFT Vault
+<div align="center">
+
+# 🔐 Healthcare Data NFT Vault — Blockchain-Secured Medical Records
+
+### Encrypt patient data, store it on IPFS, mint it as an NFT, and grant or revoke doctor access with Ethereum smart contracts.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Holesky Testnet](https://img.shields.io/badge/Holesky_Testnet-6C47FF?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+
+</div>
+
+---
 
 ## Team Members:
-| Name                          | CWID       | Email                             |
-|-------------------------------|------------|-----------------------------------|
-| Venkata Abhinav Karthik Pulikonda | 885210294 | abhinavpulikonda@csu.fullerton.edu |
-| Manoj Gangavarapu             | 885164319  | manojgangavarapu@csu.fullerton.edu |
-| Sai Satya Jagannadh Doddipatla| 885177436  | saijagannadh@csu.fullerton.edu     |
-| Rakesh Puppala                | 885175919  | rakeshpuppala2591@csu.fullerton.edu |
+| Name |
+|---|
+| Venkata Abhinav Karthik Pulikonda |
+| Manoj Gangavarapu |
+| Sai Satya Jagannadh Doddipatla |
+| Rakesh Puppala |
 
 ---
 
@@ -270,5 +285,10 @@ npm start
 
 ---
 
-## Live Demo
-*(Insert live demo video link here)*
+---
+
+<div align="center">
+
+**Built by [Sai Satya Jagannadh Doddipatla (DJ)](https://saisatyajagannadh.github.io/PersonalPortfolio/)** · ⭐ Star the repo if it helped
+
+</div>
